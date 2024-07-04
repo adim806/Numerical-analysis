@@ -1,3 +1,7 @@
+#adi meller - 316229004
+#liel forish - 316116383
+
+
 matrix = [[1,-1,-2],[2,-3,-5],[-1,3,5]]
 
 def print_matrix(matrix):
